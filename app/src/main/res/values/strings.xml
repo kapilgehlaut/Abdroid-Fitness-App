@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FitFlex</string>
+    <string name="back_ercise_1">Lat Pull down</string>
+    <string name="back_ercise_2">Inverted Rows</string>
+    <string name="back_ercise_3">Seated Row Cable</string>
+    <string name="back_ercise_4">Dumbbell Rows</string>
+    <string name="back_ercise_5">Reverse Fly</string>
+
+    <string name="chest_ercise_1">Dumbbell Chest press</string>
+    <string name="chest_ercise_2">Butterfly</string>
+    <string name="chest_ercise_3">PushUps</string>
+    <string name="chest_ercise_4">Incline Bench Press</string>
+    <string name="chest_ercise_5">Decline Bench Press</string>
+
+    <string name="shoulder_ercise_1">Dumbbell Shoulder press</string>
+    <string name="shoulder_ercise_2">Lateral Raises</string>
+    <string name="shoulder_ercise_3">Face Pulls</string>
+    <string name="shoulder_ercise_4">Side Cable Raises</string>
+    <string name="shoulder_ercise_5">Upright Rows</string>
+
+    <string name="legs_ercise_1">Squats</string>
+    <string name="legs_ercise_2">Leg Press</string>
+    <string name="legs_ercise_3">Walking Lunges</string>
+    <string name="legs_ercise_4">Leg Extension</string>
+    <string name="legs_ercise_5">Leg Curl</string>
+
+    <string name="biceps_ercise_1">Barbell Curls</string>
+    <string name="biceps_ercise_2">ChinUps</string>
+    <string name="biceps_ercise_3">Preacher Curls</string>
+    <string name="biceps_ercise_4">Incline Dumbbell Curls</string>
+    <string name="biceps_ercise_5">Hammer Curls</string>
+</resources>

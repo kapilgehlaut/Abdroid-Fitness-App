@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/he"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/button_chest"
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:backgroundTint="@color/black"
+        android:text="Chest Exercises"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:drawablePadding="8dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/button_back"
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:backgroundTint="@color/black"
+        android:text="Back Exercises"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:drawablePadding="8dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/button_legs"
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:backgroundTint="@color/black"
+        android:text="Legs Exercises"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:drawablePadding="8dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/button_shoulder"
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:backgroundTint="@color/black"
+        android:text="Shoulder Exercises"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:drawablePadding="8dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/button_biceps"
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:backgroundTint="@color/black"
+        android:text="Biceps"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:drawablePadding="8dp"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:layout_marginBottom="16dp"/>
+
+</LinearLayout>
